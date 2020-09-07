@@ -6,6 +6,13 @@
 使用运行方法：https://github.com/hwwang55/KGCN
 中文博客：https://blog.csdn.net/qq_41621342/article/details/104586631
 
+----KGCN基于知识图谱的推荐算法---
+代码：https://github.com/SSSxCCC/Recommender-System
+论文：
+数据：
+使用运行方法：
+中文博客：https://blog.csdn.net/SSSxCCC/article/details/103767132
+
 ----NAIS---
 代码：https://github.com/hwwang55/KGCN
 论文：https://arxiv.org/abs/1904.12575
