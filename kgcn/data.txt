@@ -4,3 +4,11 @@
 论文：https://arxiv.org/abs/1904.12575
 数据：http://files.grouplens.org/datasets
 使用运行方法：https://github.com/hwwang55/KGCN
+中文博客：https://blog.csdn.net/qq_41621342/article/details/104586631
+
+----NAIS---
+代码：https://github.com/hwwang55/KGCN
+论文：https://arxiv.org/abs/1904.12575
+数据：http://files.grouplens.org/datasets
+使用运行方法：https://github.com/hwwang55/KGCN
+中文博客：https://blog.csdn.net/qq_35771020/article/details/90199973
