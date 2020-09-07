@@ -1,5 +1,6 @@
-http://files.grouplens.org/datasets/
 
-$ wget http://files.grouplens.org/datasets/movielens/ml-20m.zip
-$ unzip ml-20m.zip
-$ mv ml-20m/ratings.csv data/movie/
+----KGCN---
+代码：https://github.com/hwwang55/KGCN
+论文：https://arxiv.org/abs/1904.12575
+数据：http://files.grouplens.org/datasets
+使用运行方法：https://github.com/hwwang55/KGCN
